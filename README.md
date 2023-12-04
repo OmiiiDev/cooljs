@@ -10,6 +10,9 @@ Easily capture the HTML of the current webpage, including its associated CSS and
 ### extractemail.js
 Instantly gather email addresses present on the webpage and swiftly copy them to your clipboard. This snippet simplifies the process of collecting contact information, ideal for various research or communication purposes.
 
+### extractmp4.js
+Locate and copy the URLs for all the MP4 files found on a webpage of a site.
+
 ## How to Use
 
 1. **Accessing Chrome Dev Tools:**
