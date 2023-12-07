@@ -13,8 +13,6 @@ Instantly gather email addresses present on the webpage and swiftly copy them to
 ### extractmp4.js
 Locate and copy the URLs for all the MP4 files found on a webpage of a site.
 
-## UnlimitedCookie.js
-Making the cookie expire in 2026 (not sure if it works but the values do get changed)
 
 ## How to Use
 
